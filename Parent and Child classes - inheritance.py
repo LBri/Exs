@@ -5,6 +5,8 @@ Created on Thu Nov 15 13:34:25 2018
 @author: brich
 """
 
+# Python Programming Illustrated for Beginners & Intermediates - W. Sullivan
+
 class Parent:
     name = ''
     age = ''
