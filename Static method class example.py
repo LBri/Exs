@@ -4,6 +4,7 @@ Created on Tue Nov 13 18:52:11 2018
 
 @author: brich
 
+# Python Programming Illustrated for Beginners & Intermediates - W. Sullivan
 
 # Create 'Person' class:
 class Person:
