@@ -5,6 +5,8 @@ Created on Thu Nov 15 13:41:34 2018
 @author: brich
 """
 
+# Python Programming Illustrated for Beginners & Intermediates - W. Sullivan
+
 #Create Vehicle Class  
 class Vehicle:      
     
