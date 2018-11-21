@@ -4,6 +4,8 @@ Created on Mon Oct 29 16:59:42 2018
 
 @author: brich
 """
+# Python Programming Illustrated for Beginners & Intermediates - W. Sullivan
+
 
 ###### Example demonstrating how to reference the different scopes and namespaces,
 ###### and how global and nonlocal affect variable binding:
