@@ -4,6 +4,7 @@ Created on Tue Nov 13 18:55:51 2018
 
 @author: brich
 """
+# Python Programming Illustrated for Beginners & Intermediates - W. Sullivan
 
 ### The __add__ method ###
 

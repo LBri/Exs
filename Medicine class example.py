@@ -4,6 +4,7 @@ Created on Tue Nov 13 18:25:02 2018
 
 @author: brich
 """
+# Python Programming Illustrated for Beginners & Intermediates - W. Sullivan
 
 # Create class 'Medicine'
 class Medicine:
